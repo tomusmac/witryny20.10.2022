@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana;
+}
+
+.lewy {
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+    float: left;
+}
+
+.prawy {
+    background-color: #29434E;
+    color: white;
+    width: 30%;
+    height: 70px;
+    overflow: hidden;
+}
+
+.polecamy, .fantastyczne {
+    background-color: #B0BEC5;
+    height: 320px;
+    overflow: scroll;
+}
+
+.stopka {
+    background-color: #29434E;
+    color: white;
+}
+
+h3 {
+    background-color: #546E7a;
+    color: white;
+    margin: 0px;
+}
+
+h4 {
+    text-align: center;
+    margin: 0px;
+}
+div.elegancko {
+    margin: 5px;
+    width: 226px;
+    height: 280px;
+    float: left;
+}
